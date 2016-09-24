@@ -10,5 +10,5 @@ Edited again in master branch..
 
 Hello Again!!!
 
-Miro and Pesho are the best!!!
+TNT team is the best!!!
 
