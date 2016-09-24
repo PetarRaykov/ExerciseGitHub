@@ -1,2 +1,2 @@
 # ExerciseGitHub
-Repo made for exercise
+Repo made for exercise.
